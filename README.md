@@ -13,6 +13,7 @@ This project is implemented as a microservice running in AWS. The main applicati
 - **Spring Boot**
 - **Maven**
 - **SQL**
+- **JPA (Java Persistence API)**
 
 ## Project Structure
 
