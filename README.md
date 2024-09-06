@@ -58,7 +58,7 @@ The project includes unit and integration tests using the following libraries an
 
 ## Database
 
-The project is prepared for use with an MySQL database as well as H2 in-memory database for testing purposes. 
+The project uses JPA (Java Persistence API) for ORM (Object-Relational Mapping). It is prepared for use with a MySQL database as well as an H2 in-memory database for testing purposes.
 
 ## Swagger Annotations
 
